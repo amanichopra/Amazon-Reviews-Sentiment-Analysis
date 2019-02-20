@@ -2,7 +2,6 @@ import re
 
 _author_ = 'Aman Chopra'
 _description_ = 'Define methods to cleanData, classify reviews as negative or positive based on a trained model, and determine whether an inputted review is negative or positive.'
-_puid_ = '0030974520'
 
 
 def readAndDivideBySentiment(filename):
